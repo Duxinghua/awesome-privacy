@@ -1565,6 +1565,7 @@ These services build a profile from everything you read. A local or self-hosted 
 
 ## Utilities
 - [Deskreen](https://github.com/pavlobu/deskreen) - Turn any device into a secondary screen for your computer.
+- [MiniToolDesk](https://minitooldesk.com) - 100% client-side, zero-telemetry developer utilities (JSON, JWT, Crypto) running entirely in browser.
 
 [Back to top 🔝](#contents)
 
